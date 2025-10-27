@@ -1,0 +1,14 @@
+# Ignore all plain and decrypted JSONs
+*.json
+!*.enc.json
+
+
+# Ignore PowerShell scripts (optional)
+*.ps1
+
+# Ignore decrypted backups just in case
+*.decrypted.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
