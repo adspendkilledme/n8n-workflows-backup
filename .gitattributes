@@ -1,0 +1,2 @@
+*.decrypted.json filter=preventsecrets
+*.json filter=preventsecrets
